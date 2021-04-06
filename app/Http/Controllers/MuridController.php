@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Murid;
+use App\Models\Murid; 
 use Illuminate\Http\Request;
 
 class MuridController extends Controller
